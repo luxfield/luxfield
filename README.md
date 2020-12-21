@@ -9,8 +9,11 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reizenu-uyhaa&layout=compact&langs_count=8&theme=algolia"/>
-<img src="https://github-readme-stats.vercel.app/api?username=reizenu-uyhaa&show_icons=true&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reizenu-uyhaa&layout=compact&langs_count=8&theme=algolia"/> <br />
+<img src="https://github-readme-stats.vercel.app/api?username=reizenu-uyhaa&show_icons=true&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats"> <br />
 
-<img src="https://www.codewars.com/users/reizenu-uyhaa/badges/large" alt="my codewars">
 </div>
+### ⚙️ &nbsp;Codewar Analytics
+<center>
+  <img src="https://www.codewars.com/users/reizenu-uyhaa/badges/large" alt="my codewars">
+</center>
