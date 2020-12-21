@@ -1,19 +1,16 @@
 
-### Hi there 👋
+### Hi there 👋 I'm Surya Efendi
 
-**reizenu-uyhaa/reizenu-uyhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠 &nbsp; I'm learn
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-[![Surya Efendi's github stats](https://github-readme-stats.vercel.app/api?username=reizenu-uyhaa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![My Codewars](https://www.codewars.com/users/reizenu-uyhaa/badges/large)]
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reizenu-uyhaa&layout=compact&langs_count=8&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api?username=reizenu-uyhaa&show_icons=true&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats">
+
+<img src="https://www.codewars.com/users/reizenu-uyhaa/badges/large" alt="my codewars">
 </div>
