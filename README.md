@@ -1,7 +1,8 @@
 
 ### Hi there 👋 I'm Surya Efendi
 
-
+<img src="https://i.pinimg.com/236x/2d/05/c6/2d05c684bcdc44911116749e8f5b23b7.jpg" alt="Takimoto Hifumi" />
+<br />
 ### 🛠 &nbsp; I'm learn
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=Rust)&nbsp;
