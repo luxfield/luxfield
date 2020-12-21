@@ -10,7 +10,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div align="center">
+<div align="center" style="margin-right: 5px;">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reizenu-uyhaa&layout=compact&langs_count=8&theme=algolia"/>
 <img src="https://github-readme-stats.vercel.app/api?username=reizenu-uyhaa&show_icons=true&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats"> <br />
 
