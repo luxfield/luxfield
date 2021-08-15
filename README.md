@@ -7,12 +7,13 @@
 ### 🛠 &nbsp; I'm learn
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center" style="margin-right: 5px;">
 
   &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=reizenu-uyhaa&show_icons=true&theme=tokyonight" alt="https://github.com/anuraghazra/github-readme-stats"> <br />
+<img src="https://github-readme-stats.vercel.app/api?username=reizenu-uyhaa&show_icons=true&theme=tokyonight" > <br />
 
 </div>
 
