@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxfield&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luxfield&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f063aa50-b41e-439f-92a2-31ac84a439b6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚙️ &nbsp;Codewar Analytics
 <center>
