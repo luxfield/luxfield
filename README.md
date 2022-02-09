@@ -10,12 +10,7 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div align="center" style="margin-right: 5px;">
-
-  &nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=luxfield&show_icons=true&theme=tokyonight" > <br />
-
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
