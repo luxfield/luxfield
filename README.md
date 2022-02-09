@@ -12,7 +12,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=luxfield&show_icons=true&theme=tokyonight" > <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxfield&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luxfield&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚙️ &nbsp;Codewar Analytics
 <center>
