@@ -13,7 +13,7 @@
 <div align="center" style="margin-right: 5px;">
 
   &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=reizenu-uyhaa&show_icons=true&theme=tokyonight" > <br />
+<img src="https://github-readme-stats.vercel.app/api?username=luxfield&show_icons=true&theme=tokyonight" > <br />
 
 </div>
 
