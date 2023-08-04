@@ -1,5 +1,6 @@
 
 ### Hi there 👋 I'm Surya Efendi
+![readmebox](https://github.com/luxfield/luxfield/assets/11789861/19898ffc-24df-429f-83c4-a7e15f088d2a)
 
 <img src="https://i.pinimg.com/236x/2d/05/c6/2d05c684bcdc44911116749e8f5b23b7.jpg" alt="Takimoto Hifumi"></img>
 <br />
