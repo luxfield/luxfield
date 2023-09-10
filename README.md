@@ -9,6 +9,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=Ruby)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=luxfield&show_icons=true&theme=tokyonight" > <br />
