@@ -1,6 +1,6 @@
 
 ### Hi there 👋 I'm Surya Efendi
-![readmebox](https://github.com/luxfield/luxfield/assets/11789861/19898ffc-24df-429f-83c4-a7e15f088d2a)
+<!-- ![readmebox](https://github.com/luxfield/luxfield/assets/11789861/19898ffc-24df-429f-83c4-a7e15f088d2a) -->
 
 
 ### 🛠 &nbsp; I'm learn
