@@ -13,7 +13,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=luxfield&show_icons=true&theme=tokyonight" > <br />
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=luxfield&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=luxfield)](https://github.com/stats-organization/github-stats-extended)
 
 [![willianrod's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=@f063aa50-b41e-439f-92a2-31ac84a439b6&theme=tokyonight)](https://wakatime.com/@f063aa50-b41e-439f-92a2-31ac84a439b6)
 
